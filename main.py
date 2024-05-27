@@ -26,7 +26,7 @@ async def main():
     load_dotenv() 
 
     # CONSTANTS
-    TELEGRAM_CHAT_ID = 5970685607 # PERSONAL CHAT WITH BOT 5970685607 # TELEGRAM CHAT GROUP ID #-1002019721248
+    TELEGRAM_CHAT_ID = 
     INPUT_DIRECTORY = 'C:\Cambio de Items\Insumos'
     INPUT_FILENAME = 'Input BOT 001 V1.xlsx'
     SUPER_LOG_FILENAME = 'C:/Cambio de Items/logs/super_log.txt'
